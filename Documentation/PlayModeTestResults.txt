@@ -1,0 +1,36 @@
+FinalGame play-mode smoke test
+PASS Main menu bootstrap
+PASS Prototype 1 navigation
+PASS Prototype 1 input produces horizontal travel, not gravity-only movement
+PASS Driving W moves forward along road
+PASS Driving Up arrow moves forward
+PASS Prototype 1 Escape pauses time and audio
+PASS Prototype 1 remains still while paused
+PASS Prototype 1 Resume
+PASS Prototype 1 Restart reloads and unpauses
+PASS Prototype 1 Back to Main Menu
+PASS No duplicate menu managers
+PASS Challenge 1 navigation
+PASS Challenge 1 input produces horizontal travel, not gravity-only movement
+PASS Challenge 1 Escape pauses time and audio
+PASS Challenge 1 remains still while paused
+PASS Challenge 1 Resume
+PASS Challenge 1 Restart reloads and unpauses
+PASS Challenge 1 Back to Main Menu
+PASS No duplicate menu managers
+PASS Sumo navigation
+PASS Sumo platform is flat at center and both edges
+PASS Sumo player has wrestler appearance
+PASS Sumo player settles on arena instead of floating or falling
+PASS Sumo input produces horizontal travel, not gravity-only movement
+PASS Sumo D moves right
+PASS Sumo Escape pauses time and audio
+PASS Sumo remains still while paused
+PASS Sumo Resume
+PASS Sumo Restart reloads and unpauses
+PASS Sumo restart resets wave and game-over state
+PASS Sumo advances after opponents fall
+PASS Sumo detects player falling
+PASS Sumo Back to Main Menu
+PASS No duplicate menu managers
+ALL CHECKS PASSED

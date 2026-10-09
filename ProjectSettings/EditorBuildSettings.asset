@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FinalGame/Scenes/MainMenu.unity
+    guid: 479b9418d0ee94dfcb396162139849fc
+  - enabled: 1
+    path: Assets/Imported/Driving/Scenes/Prototype 1.unity
+    guid: 84729eeda748340d0955715b6a50b370
+  - enabled: 1
+    path: Assets/Imported/Flying/Challenge 1/Challenge 1.unity
+    guid: b6cc3e14dbc3342c8ab192babf679766
+  - enabled: 1
+    path: Assets/FinalGame/Scenes/Sumo.unity
+    guid: 0e119a050fd8f4cff8d38c8c28f6b731
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
